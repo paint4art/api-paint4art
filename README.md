@@ -21,7 +21,7 @@ Paint4.art API document
 {<br>
 &nbsp;&nbsp;&nbsp; "code": 1000,<br>
 &nbsp;&nbsp;&nbsp; "msg": "success",<br>
-&nbsp;&nbsp;&nbsp; "data": "<a href="https://anquanbao1.oss-ap-southeast-1.aliyuncs.com/aiimages/5nC5qgR9kG.jpg">https://anquanbao1.oss-ap-southeast-1.aliyuncs.com/aiimages/5nC5qgR9kG.jpg</a>"<br>
+&nbsp;&nbsp;&nbsp; "data": "<a href="https://aipaint.oss-ap-southeast-1.aliyuncs.com/aiimages/5nC5qgR9kG.jpg">https://aipaint.oss-ap-southeast-1.aliyuncs.com/aiimages/5nC5qgR9kG.jpg</a>"<br>
 }</p>
 
 
