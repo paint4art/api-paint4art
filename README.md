@@ -6,7 +6,7 @@ Paint4.art API document
 
 ### 基本信息
 
-**Path：** /aipaint
+**Path：** https://cloud.paint4.art/aipaint
 
 **Method：** POST
 
