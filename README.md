@@ -13,16 +13,19 @@ Paint4.art API document
 **接口描述：**
 
 <p>入参：<br>
-{<br>
-&nbsp;&nbsp;&nbsp; "desc":"a dog",<br>
-&nbsp;&nbsp;&nbsp; "model":"Stable_Diffusion"<br>
-}</p>
+{
+    "desc":"一只狗",
+    "model":"Stable_Diffusion"
+}
 <p>出参：<br>
-{<br>
-&nbsp;&nbsp;&nbsp; "code": 1000,<br>
-&nbsp;&nbsp;&nbsp; "msg": "success",<br>
-&nbsp;&nbsp;&nbsp; "data": "<a href="https://aipaint.oss-ap-southeast-1.aliyuncs.com/aiimages/5nC5qgR9kG.jpg">https://aipaint.oss-ap-southeast-1.aliyuncs.com/aiimages/5nC5qgR9kG.jpg</a>"<br>
-}</p>
+{
+    "code": 1000,
+    "msg": "success",
+    "data": {
+        "pic_id": 2153,
+        "pic_url": "https://paint4art.oss-cn-beijing.aliyuncs.com/aiimages/8VggNTA9NP.jpg"
+    }
+}
 
 
 
